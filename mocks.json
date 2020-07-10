@@ -1,0 +1,9 @@
+[
+  {
+    "key": "/api/ideas",
+    "value": {
+      "status": "ok",
+      "data": [{ "name": "idea 1" }]
+    }
+  }
+]
